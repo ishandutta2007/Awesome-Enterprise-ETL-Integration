@@ -43,6 +43,7 @@ This repository categorizes the top **SaaS / Hosted Platforms** (evaluated by ma
 - 🛠️ [Open-Source GitHub Projects](#open-source-github-projects)
 - 📐 [Architecture Patterns & Selection Guide](#architecture-patterns--selection-guide)
 - 🤝 [How to Contribute](#how-to-contribute)
+- ⭐ [Star History](#star-history)
 - ⚖️ [Disclaimer](#disclaimer)
 
 ---
@@ -178,6 +179,11 @@ The sector is **moderately to highly fragmented** rather than a winner-take-all 
 4. 🚀 Submit PR with a short explanation.
 
 ⭐ Star the repo if you find it useful!
+
+
+
+##  Star History
+[![Star History Chart](https://star-history.eera.page/svg?repos=ishandutta2007/Awesome-Enterprise-ETL-Integration&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Enterprise-ETL-Integration&type=date&legend=top-left)
 
 
 
