@@ -10,6 +10,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-ETL-Integration/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-ETL-Integration?style=flat-square&logo=github&color=teal" alt="Forks"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-ETL-Integration/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ## ⚡ Top Enterprise ETL Integration Ecosystem: Curated SaaS Platforms & Open-Source Tools
