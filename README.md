@@ -4,6 +4,14 @@
 
 # 🚀 Awesome-Enterprise-ETL-Integration
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-ETL-Integration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-ETL-Integration?style=flat-square&logo=github&color=gold" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-ETL-Integration/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-ETL-Integration?style=flat-square&logo=github&color=teal" alt="Forks"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-ETL-Integration/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
+</p>
+
 ## ⚡ Top Enterprise ETL Integration Ecosystem: Curated SaaS Platforms & Open-Source Tools
 
 > A comprehensive, production-tested curated list of **Enterprise ETL (Extract, Transform, Load)** platforms, **ELT data pipelines**, **Change Data Capture (CDC)** engines, and **pipeline orchestration** frameworks for modern data engineering.
