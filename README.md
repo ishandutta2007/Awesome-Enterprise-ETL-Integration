@@ -42,65 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Salesforce Informatica Connector](https://www.informatica.com/)**  
-
-  Enterprise data integration connector for Salesforce. Enables bidirectional data synchronization, bulk API operations, and real-time integration with Informatica's Intelligent Data Management Cloud.
-
-
-
-- **[Fivetran](https://www.fivetran.com/)**  
-
-  Fully managed ELT platform with 700+ pre-built connectors. Automated schema drift handling and reliable syncs. Pricing based on Monthly Active Rows (MAR). Free tier up to 500K MAR.
-
-
-
-- **[Matillion](https://www.matillion.com/)**  
-
-  Cloud-native ELT with strong transformation UI. SQL-pushdown transformations and visual pipeline design. Features Data Loader CDC for near real-time change capture, processed by CDC Agents residing in the customer's data plane . Optimized for cloud data warehouses.
-
-
-
-- **[Talend Cloud](https://www.talend.com/)**  
-
-  Enterprise data integration platform. Note: Talend Open Studio (free version) is now obsolete . Talend Cloud provides managed ELT with 900+ connectors, data quality, and API services.
-
-
-
-- **[Boomi Data Integration](https://boomi.com/)**  
-
-  Acquired Rivery in December 2024, now offering cloud-native ELT with no-code interface and hundreds of prebuilt connectors. Provides ingestion, transformation, orchestration, activation, and reverse ETL capabilities .
-
-
-
-- **[IBM DataStage](https://www.ibm.com/products/datastage)**  
-
-  Enterprise ETL tool part of IBM watsonx.data integration. Features parallel processing, hundreds of prebuilt transformation functions, and connectivity to enterprise applications, cloud data sources, relational databases, and REST endpoints .
-
-
-
-- **[Qlik Replicate](https://www.qlik.com/)**  
-
-  Enterprise data replication and CDC platform. Supports real-time replication from databases, files, and cloud sources to targets including Snowflake, BigQuery, and Redshift. Features ARC CDC solutions for PostgreSQL .
-
-
-
-- **[SnapLogic](https://www.snaplogic.com/)**  
-
-  Agentic Integration Platform with AI-first approach. Features Agent Snap for scalable agent execution, MCP Client for multi-agent collaboration, and Agent Governance for enterprise oversight .
-
-
-
-- **[AWS Glue](https://aws.amazon.com/glue/)**  
-
-  Fully managed serverless ETL service. Features Data Catalog for metadata, automatic Python code generation, and flexible scheduling with dependency resolution .
-
-
-
-- **[Pentaho Cloud](https://www.hitachivantara.com/)**  
-
-  Managed version of Pentaho Data Integration (Kettle), an open-source ETL tool with graphical interface for data pipelines and transformations .
+| Platform / Product | Pricing (Starting Tier) | Free Tier Limits | Key Capabilities & Architecture |
+| :--- | :--- | :--- | :--- |
+| **[Salesforce Informatica Connector](https://www.informatica.com/)** | Pay-as-you-go from $90–$100/IPU; starting enterprise packages from $3,000/month | Free forever plan (CDI-Free) up to 20M rows/month (ELT) or 10 processing hours/month (ETL); 30-day enterprise trial | Bidirectional Salesforce data synchronization, bulk API operations, and real-time integration with Informatica IDMC. |
+| **[Fivetran](https://www.fivetran.com/)** | Standard tier at ~$500 / 1M MAR (Monthly Active Rows) + $5/month base connection fee; credit model ~$2.00/credit | Free forever plan up to 500,000 MAR/month across 700+ connectors; 14-day unlimited row trial | Fully managed ELT platform with 700+ pre-built connectors, automated schema drift handling, and automated syncs. |
+| **[Matillion](https://www.matillion.com/)** | Basic / Teams tier at $2.00/credit (starting bundle at $500/month for 250 credits or $1,000/month for 500 credits) | Free Developer edition for 1 user; 14-day free trial with 500 usage credits | Cloud-native ELT with SQL pushdown transformations, visual pipeline canvas, and Data Loader CDC agents. |
+| **[Talend Cloud](https://www.talend.com/)** | Starting at $1,170/user/month (billed annually at $14,040/user/year) for Talend Data Management Platform | 14-day free trial with full platform access and connector catalog (no credit card required) | Managed ELT with 900+ connectors, data quality governance, profiling, and API services (Talend Open Studio is obsolete). |
+| **[Boomi Data Integration](https://boomi.com/)** | Pay-As-You-Go plan starting at $99/month (plus per-message fees); Base Enterprise tiers from $2,000/month | 30-day free trial in AtomSphere sandbox (limited to 3 standard and 3 test connectors) | Cloud-native ELT & iPaaS with no-code interface, 300+ pre-built connectors, API management, and reverse ETL. |
+| **[IBM DataStage](https://www.ibm.com/products/datastage)** | $1.75 per Capacity Unit-Hour (CUH); Small Enterprise bundle starting at $1,050/month for 5,000 CUH | Lite Plan free forever with 15 CUH/month; 30-day IBM Cloud trial with $200 free credit | Enterprise parallel processing engine under IBM watsonx.data with hundreds of pre-built transformation functions. |
+| **[Qlik Replicate](https://www.qlik.com/)** | Starting enterprise tier from $1,000/month ($12,000/year for Qlik Talend Data Integration Cloud) | 14-day free trial for cloud data integration; assisted 30-day CDC proof-of-concept for enterprise sources | Real-time database replication and log-based CDC across Snowflake, BigQuery, Redshift, SAP, and PostgreSQL. |
+| **[SnapLogic](https://www.snaplogic.com/)** | Starting package at $9,995/year (~$833/month) for base pipeline endpoints and core Snaps | 30-day assisted proof-of-concept trial with access to 500+ pre-built Snaps and AI Iris integration assistant | Generative Integration Platform featuring Agent Snap for autonomous agent execution and enterprise governance. |
+| **[AWS Glue](https://aws.amazon.com/glue/)** | $0.44 per DPU-hour (Data Processing Unit-Hour), billed per second with 1-minute minimum | Free forever for 1M Data Catalog requests/month and 1M objects stored; 40 DPU-hours free trial for first 30 days | Fully managed serverless ETL engine with Data Catalog metadata, automatic script generation, and event scheduling. |
+| **[Pentaho Cloud](https://www.hitachivantara.com/)** | Starting at $3.57/hour on AWS Marketplace; standard core licenses start at $4,761/year (~$396.75/month) | 30-day free trial with complete access to Pentaho Data Integration (PDI) visual workflow designer | Cloud deployment of Pentaho Data Integration (Kettle) with graphical transformation canvas and data flow tools. |
 
 
 
