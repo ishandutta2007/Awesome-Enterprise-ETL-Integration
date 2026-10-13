@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Enterprise ETL Integration" width="100%" />
+</p>
+
 # Awesome-Enterprise-ETL-Integration
 
 ## Top Enterprise ETL Integration Ecosystem: Curated SaaS Platforms & Open-Source Tools
