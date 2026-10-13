@@ -69,103 +69,85 @@ The sector is **moderately to highly fragmented** rather than a winner-take-all 
 
 ## Open-Source GitHub Projects
 
+- **[Apache Airflow](https://github.com/apache/airflow)** [![GitHub stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers)  
+  Most widely adopted workflow orchestration and data pipeline platform (Apache-2.0). Programmatic Python-defined DAGs, massive operator ecosystem, and flexible task dependency management for complex ETL/ELT pipelines.
 
+- **[Kestra](https://github.com/kestra-io/kestra)** [![GitHub stars](https://img.shields.io/github/stars/kestra-io/kestra?style=social&color=white)](https://github.com/kestra-io/kestra/stargazers)  
+  Declarative, event-driven data orchestrator and workflow automation platform (Apache-2.0). Manage millions of scheduled and event-triggered ETL pipelines with YAML definitions and language-agnostic plugins.
 
-- **[Apache SeaTunnel](https://github.com/apache/seatunnel)**  
+- **[Prefect](https://github.com/prefecthq/prefect)** [![GitHub stars](https://img.shields.io/github/stars/prefecthq/prefect?style=social&color=white)](https://github.com/prefecthq/prefect/stargazers)  
+  Modern Python workflow orchestrator and coordination engine for data engineering (Apache-2.0). Turn Python scripts into resilient, observable ETL pipelines using intuitive `@flow` and `@task` decorators.
 
-  Next-generation, high-performance, distributed data integration platform (Apache-2.0). Synchronizes vast amounts of data daily with 100+ connectors covering batch, streaming, and CDC scenarios. Supports SeaTunnel Zeta Engine, Flink, and Spark as execution engines. Features JDBC multiplexing, log parsing, distributed snapshot algorithm for data consistency, and visual job management via SeaTunnel Web .
+- **[Airbyte](https://github.com/airbytehq/airbyte)** [![GitHub stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white)](https://github.com/airbytehq/airbyte/stargazers)  
+  Premier open-source data integration platform for ELT pipelines (ELv2). Features 350+ pre-built connectors to sync data seamlessly from databases, applications, and APIs into modern data warehouses and lakes.
 
+- **[Dagster](https://github.com/dagster-io/dagster)** [![GitHub stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social&color=white)](https://github.com/dagster-io/dagster/stargazers)  
+  Cloud-native orchestrator for machine learning, analytics, and data engineering (Apache-2.0). Emphasizes software-defined data assets, integrated lineage tracking, and testable ETL workflows.
 
+- **[Apache DolphinScheduler](https://github.com/apache/dolphinscheduler)** [![GitHub stars](https://img.shields.io/github/stars/apache/dolphinscheduler?style=social&color=white)](https://github.com/apache/dolphinscheduler/stargazers)  
+  Distributed, extensible visual workflow orchestration platform (Apache-2.0). Designed to solve complex big data task dependencies with low-latency DAG scheduling and multi-tenant isolation.
 
-- **[Apache NiFi](https://github.com/apache/nifi)**  
+- **[dbt-core](https://github.com/dbt-labs/dbt-core)** [![GitHub stars](https://img.shields.io/github/stars/dbt-labs/dbt-core?style=social&color=white)](https://github.com/dbt-labs/dbt-core/stargazers)  
+  Industry-standard framework for transforming data inside cloud data warehouses (Apache-2.0). Brings software engineering best practices—such as modular SQL, automated testing, documentation, and version control—to the "T" in ELT.
 
-  Mature flow-based programming platform (Apache-2.0) for visual design and management of data pipelines. Web-based designer for routing, transforming, and mediating data. Fine-grained data provenance tracking from ingestion to delivery. Supports both batch and real-time. One of the most battle-tested Apache data integration projects .
+- **[Debezium](https://github.com/debezium/debezium)** [![GitHub stars](https://img.shields.io/github/stars/debezium/debezium?style=social&color=white)](https://github.com/debezium/debezium/stargazers)  
+  Distributed Change Data Capture (CDC) platform built on top of Apache Kafka (Apache-2.0). Captures row-level database changes from MySQL, PostgreSQL, Oracle, MongoDB, and SQL Server in real-time.
 
+- **[Apache SeaTunnel](https://github.com/apache/seatunnel)** [![GitHub stars](https://img.shields.io/github/stars/apache/seatunnel?style=social&color=white)](https://github.com/apache/seatunnel/stargazers)  
+  Next-generation high-performance, distributed data integration platform (Apache-2.0). Synchronizes vast amounts of enterprise data daily with 100+ connectors covering batch, streaming, and CDC via SeaTunnel Zeta Engine, Flink, and Spark.
 
+- **[Mage](https://github.com/mage-ai/mage-ai)** [![GitHub stars](https://img.shields.io/github/stars/mage-ai/mage-ai?style=social&color=white)](https://github.com/mage-ai/mage-ai/stargazers)  
+  Open-source data pipeline and integration tool (Apache-2.0). Features an interactive notebook UI for developing and managing modular, scalable batch and streaming data pipelines with Python and SQL.
 
-- **[Apache Hop](https://github.com/apache/hop)**  
+- **[Apache NiFi](https://github.com/apache/nifi)** [![GitHub stars](https://img.shields.io/github/stars/apache/nifi?style=social&color=white)](https://github.com/apache/nifi/stargazers)  
+  Flow-based programming system for visual data pipeline design, real-time routing, and mediation (Apache-2.0). Enterprise-grade data governance with end-to-end data provenance tracking.
 
-  Successor to Pentaho PDI (Apache-2.0). Metadata-driven architecture, visual pipeline builder, and 400+ plugins. Runs on Spark, Flink, Google Dataflow, or AWS EMR through Apache Beam. Built with OpenJDK Java 11 and Maven .
+- **[PeerDB](https://github.com/PeerDB-io/peerdb)** [![GitHub stars](https://img.shields.io/github/stars/PeerDB-io/peerdb?style=social&color=white)](https://github.com/PeerDB-io/peerdb/stargazers)  
+  High-speed, cost-effective data replication engine specialized for PostgreSQL (Apache-2.0). Streams CDC data in real time from Postgres into Snowflake, BigQuery, ClickHouse, and queues with sub-second latency.
 
+- **[Meltano](https://github.com/meltano/meltano)** [![GitHub stars](https://img.shields.io/github/stars/meltano/meltano?style=social&color=white)](https://github.com/meltano/meltano/stargazers)  
+  Declarative, code-first data integration engine and CLI for ELT+ (MIT). Built on the open Singer protocol with 600+ connectors available on MeltanoHub for version-controlled, production-grade pipelines.
 
+- **[Hamilton](https://github.com/DAGWorks-Inc/hamilton)** [![GitHub stars](https://img.shields.io/github/stars/DAGWorks-Inc/hamilton?style=social&color=white)](https://github.com/DAGWorks-Inc/hamilton/stargazers)  
+  Modular, micro-framework for modeling dataflows with clean Python functions (BSD-3-Clause). Automatically derives DAG lineage, unit tests, and self-documenting data transformation pipelines.
 
-- **[Apache Airflow](https://github.com/apache/airflow)**  
+- **[Mara Pipelines](https://github.com/mara/mara-pipelines)** [![GitHub stars](https://img.shields.io/github/stars/mara/mara-pipelines?style=social&color=white)](https://github.com/mara/mara-pipelines/stargazers)  
+  Lightweight, opinionated Python ETL framework (MIT) bridging the gap between simple scripts and complex workflow orchestrators, focused on transparency and fast execution.
 
-  Most widely adopted workflow orchestration platform (Apache-2.0). Python-defined DAGs, massive operator ecosystem, and programmatic scheduling. 47k+ GitHub stars, 736k+ commits . Code-first approach with steep learning curve but unmatched flexibility for complex ETL dependencies.
+- **[Kiba](https://github.com/thbar/kiba)** [![GitHub stars](https://img.shields.io/github/stars/thbar/kiba?style=social&color=white)](https://github.com/thbar/kiba/stargazers)  
+  Lightweight, reliable data processing and ETL framework for Ruby (LGPL). Streamlines pipeline writing with clean single-responsibility components and composable transforms.
 
+- **[Dozer](https://github.com/getdozer/dozer)** [![GitHub stars](https://img.shields.io/github/stars/getdozer/dozer?style=social&color=white)](https://github.com/getdozer/dozer/stargazers)  
+  Real-time data integration and CDC movement engine (Apache-2.0). Ingests data instantaneously from database write-ahead logs and pushes into low-latency analytical endpoints and streaming sinks.
 
+- **[Apache Hop](https://github.com/apache/hop)** [![GitHub stars](https://img.shields.io/github/stars/apache/hop?style=social&color=white)](https://github.com/apache/hop/stargazers)  
+  Metadata-driven visual data orchestration platform (Apache-2.0), successor to Pentaho PDI. Features 400+ plugins and executes pipelines across Spark, Flink, and Apache Beam.
 
-- **[Meltano](https://github.com/meltano/meltano)**  
+- **[OLake](https://github.com/datazip-inc/olake)** [![GitHub stars](https://img.shields.io/github/stars/datazip-inc/olake?style=social&color=white)](https://github.com/datazip-inc/olake/stargazers)  
+  Fastest open-source tool for replicating databases to data lakes in open table formats like Apache Iceberg (Apache-2.0). Real-time CDC ingestion from Postgres, MongoDB, and MySQL.
 
-  Declarative code-first data integration engine (MIT) — "your CLI for ELT+" . Built on Singer protocol with 600+ connectors available in MeltanoHub. Features flexible, scalable data engineering workflow. Community of 2,500+ data professionals. Originally spun out of GitLab .
+- **[Addax](https://github.com/wgzhao/Addax)** [![GitHub stars](https://img.shields.io/github/stars/wgzhao/Addax?style=social&color=white)](https://github.com/wgzhao/Addax/stargazers)  
+  Versatile, distributed bulk ETL data transfer tool (Apache-2.0). Seamlessly exchanges high-volume data across RDBMS, NoSQL databases, and cloud object stores.
 
+- **[Sling CLI](https://github.com/slingdata-io/sling-cli)** [![GitHub stars](https://img.shields.io/github/stars/slingdata-io/sling-cli?style=social&color=white)](https://github.com/slingdata-io/sling-cli/stargazers)  
+  Lightweight, high-speed CLI data movement tool (MIT). Extracts data from source databases/storage and loads into target warehouses with minimal overhead and YAML configuration.
 
+- **[Kuwala](https://github.com/kuwala-io/kuwala)** [![GitHub stars](https://img.shields.io/github/stars/kuwala-io/kuwala?style=social&color=white)](https://github.com/kuwala-io/kuwala/stargazers)  
+  Modular data platform (MIT) uniting Airbyte, dbt, and Great Expectations into an integrated workflow canvas for non-engineers and analytics engineers.
 
-- **[Artie Transfer](https://github.com/artie-labs/transfer)**  
+- **[ReplicaDB](https://github.com/osalvador/ReplicaDB)** [![GitHub stars](https://img.shields.io/github/stars/osalvador/ReplicaDB?style=social&color=white)](https://github.com/osalvador/ReplicaDB/stargazers)  
+  Open-source cross-database replication tool (MIT). Designed for fast bulk data replication between relational and non-relational database engines.
 
-  Database replication platform leveraging change data capture (license varies). Streams production data from databases to data warehouses (Snowflake, BigQuery, Redshift, Databricks) in real-time .
+- **[Versatile Data Kit](https://github.com/vmware/versatile-data-kit)** [![GitHub stars](https://img.shields.io/github/stars/vmware/versatile-data-kit?style=social&color=white)](https://github.com/vmware/versatile-data-kit/stargazers)  
+  Data engineering framework by VMware (Apache-2.0) that simplifies developing, testing, deploying, and operating SQL and Python data pipelines.
 
+- **[Astro SDK](https://github.com/astronomer/astro-sdk)** [![GitHub stars](https://img.shields.io/github/stars/astronomer/astro-sdk?style=social&color=white)](https://github.com/astronomer/astro-sdk/stargazers)  
+  Rapid ELT workflow development SDK powered by Apache Airflow (Apache-2.0). Write modular Python and SQL DAGs with native pandas, Snowflake, and BigQuery interoperability.
 
+- **[PyAirbyte](https://github.com/airbytehq/PyAirbyte)** [![GitHub stars](https://img.shields.io/github/stars/airbytehq/PyAirbyte?style=social&color=white)](https://github.com/airbytehq/PyAirbyte/stargazers)  
+  Official Python library bringing Airbyte's 300+ managed connectors into standard Python scripts, Jupyter notebooks, and custom ETL pipelines.
 
-- **[Sling CLI](https://github.com/slingdata-io/sling-cli)**  
-
-  CLI tool for extracting data from source storage/databases and loading it to target storage/databases (license varies). Lightweight and scriptable for data engineers .
-
-
-
-- **[OLake](https://github.com/datazip-inc/olake)**  
-
-  Fastest open-source tool for replicating databases to data lakes in open table formats like Apache Iceberg (license varies). Efficient, quick, and scalable ingestion for real-time analytics. Supports Postgres, MongoDB, and MySQL .
-
-
-
-- **[ReplicaDB](https://github.com/osalvador/ReplicaDB)**  
-
-  Open-source database replication tool (license varies). Designed for efficiently transferring bulk data between relational and non-relational databases .
-
-
-
-- **[Dozer](https://github.com/getdozer/dozer)**  
-
-  Real-time data movement tool leveraging CDC from various sources (license varies). Moves data into various sinks .
-
-
-
-- **[Addax](https://github.com/wgzhao/Addax)**  
-
-  Versatile open-source ETL tool (license varies). Seamlessly transfers data between various RDBMS and NoSQL databases. 1,097+ GitHub stars, 287+ forks .
-
-
-
-- **[PyAirbyte](https://github.com/airbytehq/PyAirbyte)**  
-
-  Python library bringing Airbyte's 600+ connectors to every Python developer (license varies). Enables programmatic data integration in Python pipelines .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[Kuwala](https://github.com/kuwala-io/kuwala)** — No-code data platform integrating Airbyte, dbt, and Great Expectations in one interface .
-
-- **[Versatile Data Kit](https://github.com/vmware/versatile-data-kit)** — Framework for developing, deploying, and operating data workflows with Python and SQL .
-
-- **[Astro SDK](https://github.com/astronomer/astro-sdk)** — Rapid ELT workflow development using Python and SQL, powered by Apache Airflow .
-
-- **[Mara Pipelines](https://github.com/mara/mara-pipelines)** — Lightweight opinionated ETL framework between plain scripts and Airflow .
-
-- **[PeerDB](https://github.com/PeerDB-io/peerdb)** — Fast, cost-effective tool to replicate data from Postgres to warehouses, queues, and storage .
-
-- **[Kiba](https://github.com/thbar/kiba)** — Data processing and ETL framework for Ruby .
-
-- **[Hamilton](https://github.com/DAGWorks-Inc/hamilton)** — Testable, modular, self-documenting dataflows with lineage and metadata encoding .
-
-- Community **n8n** workflows for lighter ETL automation and data routing.
-
-
-
-**Frameworks for building custom systems**: Combine **Apache SeaTunnel** or **Apache NiFi** as the ingestion and orchestration core with **Meltano** for declarative connector-based ELT, **Apache Airflow** for complex workflow dependencies, **Artie** for real-time CDC streaming, and **PostgreSQL** for metadata persistence — creating a fully self-hosted, enterprise-grade ETL integration platform.
+**Frameworks for building custom systems**: Combine **Apache SeaTunnel** or **Apache NiFi** as the ingestion and orchestration core with **Airbyte** or **Meltano** for declarative connector-based ELT, **dbt-core** for in-warehouse data transformations, **Apache Airflow** or **Kestra** for complex workflow dependencies, **Debezium** or **PeerDB** for real-time CDC streaming, and **PostgreSQL** for metadata persistence — creating a fully self-hosted, enterprise-grade ETL integration platform.
 
 
 
