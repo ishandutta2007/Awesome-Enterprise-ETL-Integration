@@ -43,6 +43,7 @@ This repository categorizes the top **SaaS / Hosted Platforms** (evaluated by ma
 - 🛠️ [Open-Source GitHub Projects](#open-source-github-projects)
 - 📐 [Architecture Patterns & Selection Guide](#architecture-patterns--selection-guide)
 - 🤝 [How to Contribute](#how-to-contribute)
+- 💖 [Support](#support)
 - ⭐ [Star History](#star-history)
 - ⚖️ [Disclaimer](#disclaimer)
 
@@ -179,6 +180,23 @@ The sector is **moderately to highly fragmented** rather than a winner-take-all 
 4. 🚀 Submit PR with a short explanation.
 
 ⭐ Star the repo if you find it useful!
+
+
+
+## 💖 Support
+
+Thank you for exploring and utilizing this enterprise ETL ecosystem guide! If you find this resource helpful for your data engineering projects, evaluation workflows, or architecture planning, please consider supporting the project:
+
+- ⭐ **Star this repository** on GitHub to boost its visibility.
+- 🍴 **Fork and contribute** by submitting PRs with new tools, benchmarks, and updates.
+- 📢 **Share this list** with your colleagues, data engineering teams, and developer communities.
+- ☕ **Buy me a coffee / Sponsor**: If you would like to support ongoing research and open-source curation, please consider sponsoring via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="left">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+</p>
 
 
 
